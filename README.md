@@ -52,7 +52,7 @@ Installing the project on local machine
 ```
 npm install
 ```
-
+Create new file .env and add the following:
 ```
 BOT_TOKEN=<Your Bot token from your discord account>
 ```
