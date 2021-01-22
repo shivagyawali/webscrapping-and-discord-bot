@@ -20,6 +20,11 @@
 </div>
 
 
+## ScreenShots
+
+![demo](https://raw.githubusercontent.com/shivagyawali/webscrapping-and-discord-bot/main/discordApp.png)
+
+
 ## About
 
 This application collects the data from website and present that information to discord server through the bot.
